@@ -5,7 +5,7 @@ Productivity App has 3 sub programs, Calculator (postfix calculation) using stac
 ![screenshot](./ss2.png)
 ![screenshot](./ss3.png)
 
-## installation
+## Installation
 
 To try this program yourself:
 - download the code or clone this repo
