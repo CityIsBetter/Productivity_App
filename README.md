@@ -3,6 +3,7 @@ Productivity App has 3 sub programs, Calculator (postfix calculation) using stac
 ## Demo
 ![screenshot](./ss1.png)
 ![screenshot](./ss2.png)
+![screenshot](./ss3.png)
 
 ## installation
 
